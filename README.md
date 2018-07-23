@@ -30,9 +30,9 @@ Canny is an algorithm for extracting edge from an image.
 
 Make use of hough transform to detect lines or circles in an image.
 
-|                    Line detection result                     |                   Circle detection result                    |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Screen Shot 2018-04-25 at 1.45.54 PM](assets/Screen Shot 2018-04-25 at 1.45.54 PM.png) | ![Screen Shot 2018-04-25 at 1.51.20 PM](assets/Screen Shot 2018-04-25 at 1.51.20 PM.png) |
+|   Line detection result    |    Circle detection result     |
+| :------------------------: | :----------------------------: |
+| ![line1](assets/line1.png) | ![circle1](assets/circle1.png) |
 
 
 
@@ -40,9 +40,9 @@ Make use of hough transform to detect lines or circles in an image.
 
 According to the line detector from 3 above, I make this to warping the A4 from image for A4 correction.
 
-| origin | ![Screen Shot 2018-04-25 at 1.45.41 PM](assets/Screen Shot 2018-04-25 at 1.45.41 PM.PNG) |
-| :----: | :----------------------------------------------------------: |
-| warped |                ![output1](assets/output1.BMP)                |
+| origin |  ![origin](assets/origin.PNG)  |
+| :----: | :----------------------------: |
+| warped | ![output1](assets/output1.BMP) |
 
 
 
